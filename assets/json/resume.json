@@ -54,6 +54,17 @@
       "endDate": "20??-??-??",
       "score": "10",
       "courses": ["Theory of Relativity"]
+    },
+    {
+      "institution": "The Germany University of Cairo (GUC), Cairo, Egypt",
+      "location": "Cairo, Egypt",
+      "url": "https://www.guc.edu.eg/",
+      "area": "Electroincs Engineering",
+      "studyType": "MSc",
+      "startDate": "2023-07-01",
+      "endDate": "20??-??-??",
+      "score": "10",
+      "courses": ["Theory of Relativity"]
     }
   ],
   "awards": [
