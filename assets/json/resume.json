@@ -40,8 +40,7 @@
       "url": "https://example.com",
       "startDate": "2020-09-08",
       "endDate": "2020-09-10",
-      "summary": "Organizer for The 37th National Radio Science Conference",
-      "highlights": [""]
+      "summary": "Organizer for The 37th National Radio Science Conference"
     }
   ],
   "education": [
@@ -51,8 +50,8 @@
       "url": "https://www.uzh.ch/",
       "area": "Software Development",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "2023-07-01",
+      "endDate": "20??-??-??",
       "score": "10",
       "courses": ["Theory of Relativity"]
     }
