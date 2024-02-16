@@ -26,11 +26,11 @@
     {
       "name": "Institute of Geodesy and Geoinformation, The University of Bonn",
       "position": "Ph.D Researcher",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
+      "url": "https://www.gug.uni-bonn.de/en",
+      "startDate": "2023-07-01",
+      "endDate": "present",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "highlights": ["Explainable Machine Learning", "Uncertainty Quantification"]
     }
   ],
   "volunteer": [
